@@ -9,4 +9,8 @@ body {
 
 button {
   background: none;
+  color: #ffa260;
+  border: 2px solid;
+  padding: 1em 2em;
+  font-size: 1em;
 }
